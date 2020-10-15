@@ -24,7 +24,8 @@
      * Diagrama de dispersão
      * Tooltips
   7. Visualização
-     
+  
+  ![](https://github.com/aronmarcus/Coronavirus_Dashboard/blob/master/img/AnaliseCovid.png)
 
 ## Estrutura de Hardware e Software ##
 
