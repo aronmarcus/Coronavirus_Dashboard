@@ -1,5 +1,7 @@
 # Coronavirus_Dashboard
 
+![](https://github.com/aronmarcus/Coronavirus_Dashboard/blob/master/img/AnaliseCovid.gif)
+
 ## Motivação ##
 
   <p>Contribuir com a visão analítica dos dados da pandemia do novo Coronavírus bem como, uma forma de consolidar meus conhecimentos no campo da análise de dados desenvolvendo um primeiro projeto de Visualização de dados/Business Intelligence com o uso do Microsoft PowerBI.</p>
