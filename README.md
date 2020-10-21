@@ -50,4 +50,8 @@
   
   - [Worldometers](https://www.worldometers.info/coronavirus/)
   - [Github CSSE JHU](https://github.com/CSSEGISandData/COVID-19)
+  
+  ## Licença ##
+  
+  _MIT License Copyright (c) 2020 Aron Marcus_
  
